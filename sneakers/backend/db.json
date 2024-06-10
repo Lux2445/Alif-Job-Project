@@ -1,0 +1,13 @@
+{"items":[{"id":1,"title":"Nike Blazer Mid Suede","price":149,"imageUrl":"/img/sneakers/1.jpg"},
+{"id":2,"title":"Nike Air Max 270","price":176,"imageUrl":"/img/sneakers/2.jpg"},
+{"id":3,"title":"Nike Blazer Mid Suede","price":284,"imageUrl":"/img/sneakers/3.jpg"},
+{"id":4,"title":"Aka Boku Future Rider","price":189,"imageUrl":"/img/sneakers/4.jpg"},
+{"id":5,"title":"Under Armour Curry 8","price":199,"imageUrl":"/img/sneakers/5.jpg"},
+{"id":6,"title":"Nike Kyrie 7","price":119,"imageUrl":"/img/sneakers/6.jpg"},
+{"id":7,"title":"Jordan Air Jordan 11","price":107,"imageUrl":"/img/sneakers/7.jpg"},
+{"id":8,"title":"Nike LeBron XVIII","price":199,"imageUrl":"/img/sneakers/8.jpg"},
+{"id":9,"title":"Nike Lebron XVIII Low","price":139,"imageUrl":"/img/sneakers/9.jpg"},
+{"id":10,"title":"Nike Kyrie Flytrap IV","price":199,"imageUrl":"/img/sneakers/10.jpg"}],
+"cart":[{"id":3,"parentId":3,"title":"Nike Blazer Mid Suede","imageUrl":"/img/sneakers/3.jpg","price":349}],
+"favorites":[{"id":1,"parentId":1,"title":"Nike Blazer Mid Suede","imageUrl":"/img/sneakers/1.jpg","price":189}],
+"orders":[{"items":[{"id":6,"parentId":6,"title":"Nike Kyrie 7","imageUrl":"/img/sneakers/6.jpg","price":119}]}]}
